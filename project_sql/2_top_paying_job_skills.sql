@@ -29,6 +29,7 @@ SELECT
     INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY salary_year_avg DESC
 
+
 /*
 Here is a breakdown of the most demanded skills for Data Analysts in 2023, based on job postings:
 SQL is leading with a bold count of 8.
