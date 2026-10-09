@@ -1,6 +1,6 @@
 ## Introduction
 
-Dive into the data job market! Focusing on data analyst roles, this project explorestop-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
+Dive into the data job market! Focusing on data analyst roles, this project explores top-paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
 
 - SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
@@ -47,7 +47,7 @@ ORDER BY
 LIMIT 10;
 ```
 Here is the breakdown:
-- **Wide Salary Range:** The top paying data analyst roles span from $184000 to $650000 indicatingsignificant salary potential.
+- **Wide Salary Range:** The top paying data analyst roles span from $184000 to $650000 indicating significant salary potential.
 - **Diverse Employers:** Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There is a high diversit of job Titles, from Data Analyst to Director of Analytics, reflecting varied roles and specialisations with data analytics.
 
@@ -260,7 +260,7 @@ Here is a breakdown of the most optimal skills for data analysts:
 
 *Table of the most optimal skills for data analysts, sorted by average salary.*
 
-![Most optimal skills for data analysts](project_sql\optimal_skills.png)
+![Most optimal skills for data analysts](project_sql/optimal_skills.png)
 *Bar chart of the most optimal skills for data analysts, with the number of postings for each.*
 
 # What I Learned
