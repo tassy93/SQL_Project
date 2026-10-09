@@ -5,7 +5,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
 - SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
-Driven by a quest to navigate the data anayst job market more effectively, tis project was born form a desire to pinpoint top-paid and in-demand skills, streamlining others work to optimal jobs.
+Driven by a quest to navigate the data anayst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to optimal jobs.
 
 ## The questions I wanted to answer through my queries were:
 1. What are the top-paying data analyst jobs?
